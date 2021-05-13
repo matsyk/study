@@ -1,0 +1,15 @@
+#/home/matsyk/ENV1/lib/python3.8/site-packages/ipykernel_launcher.py -f /home/matsyk/.local/share/jupyter/runtime/kernel-4e455ec4-7b65-4da9-85a6-b7219107a548.json
+# GMT Wed May  5 10:17:31 2021
+#
+0
+1
+2 3 6 10
+3 6 7 11
+4 5 9 8
+5 8 9
+6 7 10 11
+7 10 11
+8 9
+9
+10 11
+11
